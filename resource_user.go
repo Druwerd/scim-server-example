@@ -1,3 +1,4 @@
+// Orginal code from: https://github.com/scim2/example-server/blob/master/resource_user.go
 // Do not edit. This file is auto-generated.
 package main
 

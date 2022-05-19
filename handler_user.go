@@ -1,3 +1,5 @@
+// Original code from: https://github.com/scim2/example-server/blob/master/handler_user.go
+
 package main
 
 import (
